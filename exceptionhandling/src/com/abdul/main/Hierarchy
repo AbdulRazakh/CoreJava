@@ -1,0 +1,22 @@
+
+Thowable(parent of all exception)
+     Exception(which user can handle to maintain normal execution of a program)
+              -checked Exception:(compile time exception or identified by compiler)
+                             2 types
+                                  - IOException
+                                  - SQLException
+              -unchecked Exception:(not detected by the compiler/during runtime)
+              					  -Runtime Exception
+              					          Arthmatic Exception
+              					          ArrayOutOfException
+              					          etc etc
+                                                			
+     
+     
+     
+     
+     
+     
+     
+     Error: which we cannot do anything
+     (Example: jvm is not working/cpu is not working)
