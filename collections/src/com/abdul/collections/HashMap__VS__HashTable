@@ -1,0 +1,18 @@
+
+
+      HashMap                                   Hashtable
+it is not thread safe                    it is thread safe
+only one thread can access
+
+fast                                     slow
+
+allows null key                          doesnt allow null key
+
+
+
+LinkedHashMap
+insertion order is preserved
+
+TreeHashMap
+
+it is in sorted form
