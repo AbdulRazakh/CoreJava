@@ -1,0 +1,13 @@
+
+
+          ArrayList                              LinkedList
+          
+1) ArrayList internally implements           1) LinkedList internally implements doubly 
+ Array										   Linked list
+2) ArrayList searching and traversing is fast 2) ArrayList searching and traversing is slow  
+because it internally uses array by   			because it internally uses doubly Linked list
+using indexing
+3)ArrayList insertion and deletion is         3) is fast 
+slow when compared to linkedlist
+since adding an element makes other 
+element to move all other elements
